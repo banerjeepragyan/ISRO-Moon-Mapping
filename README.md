@@ -2,8 +2,6 @@
 
 Amongst the eight payloads that the Chandrayaan-2 Orbiter carries, it carries some imaging payloads too. We use them and the abilities of machine learning and artificial intelligence to create a high-resolution map of the moon.
 
-## Project Overview
-
 ![image](https://user-images.githubusercontent.com/88557062/231688589-182efc56-08da-476b-9673-aafa1c4f75a1.png)
 
 ## About HAT-L
@@ -82,6 +80,7 @@ We then employed a GDAL based method, where we used python-API for GDAL library 
 LAT, LONG:
 - Top Left: 49.2, 48.3
 - Bottom Right: 48.2, 49.3
+
 TMC Images:
 - ch2_tmc_ndn_20220708T1115585981_d_oth_d32
 - ch2_tmc_ndn_20220708T1314261067_d_oth_d32
