@@ -87,7 +87,7 @@ TMC Images:
 - ch2_tmc_ndn_20220708T1314261067_d_oth_d32
 
 ## References
-- [Understanding Diffusion Models: A unified perspective] https://arxiv.org/abs/2208.11970
-- [Activating More Pixels in Image Super-Resolution Transformer] https://arxiv.org/abs/2205.04437v2
-- [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks] https://arxiv.org/abs/1809.00219
-- [GDAL] https://github.com/OSGeo/gdal 
+- [Understanding Diffusion Models: A unified perspective] (https://arxiv.org/abs/2208.11970)
+- [Activating More Pixels in Image Super-Resolution Transformer] (https://arxiv.org/abs/2205.04437v2)
+- [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks] (https://arxiv.org/abs/1809.00219)
+- [GDAL] (https://github.com/OSGeo/gdal)
