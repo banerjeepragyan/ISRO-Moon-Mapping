@@ -1,0 +1,7 @@
+# ISRO
+
+TMC IMAGES MERGED
+ch2_tmc_ndn_20220708T1115585981_d_oth_d32
+ch2_tmc_ndn_20220708T1314261067_d_oth_d32
+
+LAT, LONG = (49.2, 48.3) , (48.2, 49.3) 
