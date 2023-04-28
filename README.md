@@ -1,4 +1,4 @@
-# ISRO- CHANDRAYAAN MOON MAPPING
+# ISRO- Chandrayan Moon Mapping 
 
 Amongst the eight payloads that the Chandrayaan-2 Orbiter carries, it carries some imaging payloads too. We use them and the abilities of machine learning and artificial intelligence to create a high-resolution map of the moon.
 
